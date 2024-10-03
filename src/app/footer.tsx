@@ -1,9 +1,6 @@
 "use client";
 
-import { useRouter } from "next/navigation";
-
 export const Footer = () => {
-  const router = useRouter();
   return (
     <div
       style={{
